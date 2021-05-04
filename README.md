@@ -1,4 +1,4 @@
-# Spring Boot URL  #
+# Spring Boot Small URL  #
 This project demonstrates the use of Spring Boot 2.0 and Redis to build a short-term URL api. Also popularly known as 'tinyurl'.
 
 ### Prerequisites
