@@ -9,7 +9,8 @@ This project demonstrates the use of Spring Boot 2.0 and Redis to build a short-
 ### Execution
 
 ```
-java -jar spring-url-shortner.jar
+Download the code to eclipse and make it java gradle project, and execute the main class
+We can invoke the url from postman
 ```
 
 ### API Details
